@@ -1,0 +1,77 @@
+body{
+
+  color:white;
+
+  text-align: center;
+}
+
+*{
+  margin: 0;
+  padding:0;
+}
+.top-container{
+  background-color: #f57b51;
+  height: 1200px;
+}
+p{
+    font-family: 'Merriweather', serif;
+    line-height: 1.8;
+}
+h1  {
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto;
+  width:5%;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+.middle-container{
+  color: #f57b51;
+  margin-top: 10px;
+}
+.profile-image, .skills-image{
+  margin-top: 20px;
+  width:150px;
+  border-radius: 100px;
+}
+.family-image{
+  margin-top: 20px;
+  width:250px;
+  border-radius: 20px;
+}
+.my-skills, .my-family{
+  margin: 0 auto;
+  width:70%;
+}
+.susan-image{
+  width: 200px;
+  border-radius: 10%;
+  margin-top: 20px;
+}
+.mavis-image{
+  width: 200px;
+  position: absolute;
+  right:50px;
+  border-radius: 40%;
+}
+.kathryn-image{
+width:400px;
+border-radius:90%;
+margin-top: 200px;
+}
+.gladys-image{
+  width:200px;
+  position: absolute;
+  left: 50px;
+  border-radius:40%;
+  margin-top: 600px;
+}
+.bottom-container{
+    background-color: #f57b51;
+    color: white;
+    margin-top: 10px;
+}
+
+.links{
+  margin: 10px;
+}
